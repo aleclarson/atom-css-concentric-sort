@@ -1,8 +1,8 @@
 {
-  "name": "css-declaration-sorter",
-  "version": "1.2.0",
-  "description": "Sorts CSS declarations fast and automatically in a certain order.",
-  "main": "./lib/css-declaration-sorter",
+  "name": "css-concentric-sort",
+  "version": "1.0.0",
+  "description": "Sort properties pre-save in concentric order",
+  "main": "./lib/main",
   "files": [
     "keymaps",
     "lib",
@@ -25,19 +25,5 @@
   },
   "engines": {
     "atom": ">=1.5.0 <2.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Siilwyn/css-declaration-sorter-atom.git"
-  },
-  "author": "Selwyn <talk@selwyn.cc> (https://selwyn.cc/)",
-  "license": "MIT",
-  "keywords": [
-    "postcss",
-    "css",
-    "declaration",
-    "sorter",
-    "property",
-    "order"
-  ]
+  }
 }
