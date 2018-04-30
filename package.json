@@ -4,7 +4,6 @@
   "description": "Sort properties pre-save in concentric order",
   "main": "./lib/main",
   "files": [
-    "keymaps",
     "lib",
     "menus"
   ],
