@@ -1,4 +1,4 @@
-# atom-css-concentric-sort v1.0.0
+# atom-css-concentric-sort v1.1.0
 
 Sort your CSS/SCSS properties in [concentric order](https://github.com/brandon-rhodes/Concentric-CSS).
 
