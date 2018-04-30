@@ -21,7 +21,6 @@
     "no-console": [0],
     "no-extra-semi": [2],
     "no-mixed-requires": [2],
-    "no-sync": [2],
     "no-trailing-spaces": [2],
     "no-useless-call": [2],
     "no-warning-comments": [2],
